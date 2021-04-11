@@ -7,6 +7,10 @@ My name is Sapan Ravidas, I am a 3rd year student of Computer Science
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
 
 ![stats](https://github-readme-stats-snowy-rho.vercel.app/api/top-langs?username=Sapan-Ravidas&title_color=fff&show_icons=true&theme=radical&layout=compact)![stats](https://github-readme-stats-snowy-rho.vercel.app/api?username=Sapan-Ravidas&title_color=fff&icon_color=fff&show_icons=true&theme=radical)
 
