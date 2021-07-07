@@ -3,12 +3,12 @@ I'm **Sapan Ravidas**, a software engineer who is passoionate about **Artificial
 
 &nbsp;
 
-## Website / Portfolio
+## 🕸️ Website / Portfolio
 <a href="https://sapan-ravidas.github.io/">```https://sapan-ravidas.github.io/```</a>
 
 &nbsp;
 
-## Languages and Tools
+## 🖥️ Languages and Tools
 [![Python Badge](https://img.shields.io/badge/-Python3-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) 
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-f57c00?style=for-the-badge&labelColor=black&logo=python&logoColor=f57c00)](#) 
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#) [![Flask Badge](https://img.shields.io/badge/-Flask-999999?style=for-the-badge&labelColor=black&logo=flask&logoColor=999999)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-2B3E56?style=for-the-badge&labelColor=black&logo=Dart&logoColor=2B3E56)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-673AB7?style=for-the-badge&labelColor=black&logo=flutter&logoColor=673AB7)](#)
@@ -22,14 +22,18 @@ I'm **Sapan Ravidas**, a software engineer who is passoionate about **Artificial
 
 &nbsp;
 
-# 🌱 
-**I am currently learning** 
+## 🌱 I am currently learning 
 
 [![bash Badge](https://img.shields.io/badge/-GNU_BASH-428B29?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=428B29)](#)
 
+&nbsp;
+
+## 📑 Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 &nbsp;
 
-## Connect with Me
+## 🧑‍🤝‍🧑 Connect with Me
 <a href="https://www.facebook.com/sapan.ravidas.58/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg"/></a>  <a href="https://www.linkedin.com/in/sapan-ravidas-613204178/" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/></a>  <a href="https://www.instagram.com/sapanravidas/" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg"/></a>
 
