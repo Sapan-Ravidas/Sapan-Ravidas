@@ -17,8 +17,7 @@ I'm **Sapan Ravidas**, a software engineer who is passoionate about **Artificial
 
 
 
-<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapan-Ravidas&theme=highcontrast&layout" />
-<img align="top" width="530px" src ="https://github-readme-stats-snowy-rho.vercel.app/api?username=Sapan-Ravidas&title_color=fff&icon_color=fff&show_icons=true&theme=highcontrast"/>
+<img align="center" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapan-Ravidas&theme=highcontrast&layout" /> <img align="top" width="550px" src ="https://github-readme-stats-snowy-rho.vercel.app/api?username=Sapan-Ravidas&title_color=fff&icon_color=fff&show_icons=true&theme=highcontrast"/>
 
 &nbsp;
 
