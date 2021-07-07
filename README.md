@@ -27,12 +27,6 @@ I'm **Sapan Ravidas**, a software engineer who is passoionate about **Artificial
 
 &nbsp;
 
-## 📑 Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
-
 ## 🧑‍🤝‍🧑 Connect with Me
 <a href="https://www.facebook.com/sapan.ravidas.58/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg"/></a>  <a href="https://www.linkedin.com/in/sapan-ravidas-613204178/" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/></a>  <a href="https://www.instagram.com/sapanravidas/" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg"/></a>
 
