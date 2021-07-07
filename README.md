@@ -1,20 +1,35 @@
-## 🧛 Hello There! 👋
-My name is Sapan Ravidas, I am a 3rd year student of Computer Science
+# 🧛 Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+I'm **Sapan Ravidas**, a software engineer who is passoionate about **Artificial Intelligence** domains like Data-Science, Machine-Learning and others. I also have skills in **web** and **mobile** application development. 
 
-### Languages and Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
+&nbsp;
 
-![stats](https://github-readme-stats-snowy-rho.vercel.app/api/top-langs?username=Sapan-Ravidas&title_color=fff&show_icons=true&theme=radical&layout=compact)![stats](https://github-readme-stats-snowy-rho.vercel.app/api?username=Sapan-Ravidas&title_color=fff&icon_color=fff&show_icons=true&theme=radical)
+## Website / Portfolio
+<a href="https://sapan-ravidas.github.io/">```https://sapan-ravidas.github.io/```</a>
 
-🌱 I am currently learning <span style="margin-top:3px">![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=010101)</span>
+&nbsp;
 
-### Connect with Me
-<a href=""><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg"  /></a>&nbsp;&nbsp;<a href="" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"  /></a>
+## Languages and Tools
+[![Python Badge](https://img.shields.io/badge/-Python3-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) 
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-f57c00?style=for-the-badge&labelColor=black&logo=python&logoColor=f57c00)](#) 
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#) [![Flask Badge](https://img.shields.io/badge/-Flask-999999?style=for-the-badge&labelColor=black&logo=flask&logoColor=999999)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-2B3E56?style=for-the-badge&labelColor=black&logo=Dart&logoColor=2B3E56)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-673AB7?style=for-the-badge&labelColor=black&logo=flutter&logoColor=673AB7)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) 
+[![PHP Badge](https://img.shields.io/badge/-PHP-858EBB?style=for-the-badge&labelColor=black&logo=PHP&logoColor=858EBB)](#) 
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapan-Ravidas&theme=highcontrast&layout" />
+<img align="top" width="530px" src ="https://github-readme-stats-snowy-rho.vercel.app/api?username=Sapan-Ravidas&title_color=fff&icon_color=fff&show_icons=true&theme=highcontrast"/>
+
+&nbsp;
+
+# 🌱 
+**I am currently learning** 
+
+[![bash Badge](https://img.shields.io/badge/-GNU_BASH-428B29?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=428B29)](#)
+
+
+&nbsp;
+
+## Connect with Me
+<a href="https://www.facebook.com/sapan.ravidas.58/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg"/></a>  <a href="https://www.linkedin.com/in/sapan-ravidas-613204178/" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/></a>  <a href="https://www.instagram.com/sapanravidas/" style="mix-blend-mode:hue;"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg"/></a>
+
