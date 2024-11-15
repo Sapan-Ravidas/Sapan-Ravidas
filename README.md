@@ -15,7 +15,6 @@ I'm **Sapan Ravidas**, a software engineer who is passionate about **Artificial 
 [![Python Badge](https://img.shields.io/badge/-Python3-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) 
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-f57c00?style=for-the-badge&labelColor=black&logo=python&logoColor=f57c00)](#) 
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#) [![Flask Badge](https://img.shields.io/badge/-Flask-999999?style=for-the-badge&labelColor=black&logo=flask&logoColor=999999)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-2B3E56?style=for-the-badge&labelColor=black&logo=Dart&logoColor=2B3E56)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-673AB7?style=for-the-badge&labelColor=black&logo=flutter&logoColor=673AB7)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) 
 [![PHP Badge](https://img.shields.io/badge/-PHP-858EBB?style=for-the-badge&labelColor=black&logo=PHP&logoColor=858EBB)](#) 
 
 
