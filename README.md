@@ -3,8 +3,8 @@ I'm **Sapan Ravidas**, a software engineer who is passionate about **Artificial 
 
 &nbsp;
 
-## 🕸️ Website / Portfolio
-<a href="https://sapan-ravidas.github.io/">```https://sapan-ravidas.github.io/```</a>
+[## 🕸️ Website / Portfolio]
+[<a href="https://sapan-ravidas.github.io/">```https://sapan-ravidas.github.io/```</a>]
 
 &nbsp;
 
