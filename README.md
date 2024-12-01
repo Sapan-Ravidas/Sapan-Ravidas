@@ -3,11 +3,6 @@ I'm **Sapan Ravidas**, a software engineer who is passionate about **Artificial 
 
 &nbsp;
 
-[!## 🕸️ Website / Portfolio]
-[!<a href="https://sapan-ravidas.github.io/">```https://sapan-ravidas.github.io/```</a>]
-
-&nbsp;
-
 ## 🖥️ Languages and Tools
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) [![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](#)
 [![SpringFramework Badge](https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
