@@ -15,11 +15,6 @@ I'm Sapan Ravidas - Android Developer | Spring Boot Backend Developer
 
 <img align="center" width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapan-Ravidas&theme=highcontrast&layout" /> <img align="top" width="550px" src ="https://github-readme-stats-snowy-rho.vercel.app/api?username=Sapan-Ravidas&title_color=fff&icon_color=fff&show_icons=true&theme=highcontrast"/>
 
-&nbsp;
-
-## 🌱 I am currently learning 
-
-[![bash Badge](https://img.shields.io/badge/-GNU_BASH-428B29?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=428B29)](#)
 
 &nbsp;
 
